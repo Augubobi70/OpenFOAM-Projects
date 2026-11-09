@@ -26,15 +26,13 @@ By **Augustine Bobi**, Chemical Engineering, NITC.
 - **Problem:** Flow of Newtonian fluid when lid(top) part moves 
 - **Method:** IcoFoam is used here. 
 - **Outputs:** validation data with ghia dataset
-## Tools
-OpenFOAM v2506 · IcoFoam  · checkMesh · Python (post-processing and ghia benchmark dataset)
 
 ## 4. Poisuelle Flow
 - **Problem:** Flow of a Newtonian fluid due to the pressure difference
 - **Method:** IcoFoam is used here. 
 - **Outputs:** validation data with analytical dataset
 ## Tools
-OpenFOAM v2506 · IcoFoam  · checkMesh · Python (post-processing and analytical solution)
+OpenFOAM v2506 · IcoFoam  ·InterFoam  · Python (post-processing) ·CAD (bluffbody) 
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/augustine-bobi-83927a35a
