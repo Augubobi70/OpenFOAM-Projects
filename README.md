@@ -5,10 +5,10 @@ By **Augustine Bobi**, Chemical Engineering, NITC.
 
 ## Projects
 
-| Project | Branch | Summary |
-|---|---|---|
-| Oil bubble hitting a trapezoidal bluff body | [branch-name-1](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Emulsion-of-Oil) |
-| Mixing tank with rotating zone (MRF) | [branch-name-2](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Mixing) |
+| Project | Branch | 
+|---|---|
+| Oil bubble hitting a trapezoidal bluff body | [Oil-Bubble](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Emulsion-of-Oil) |
+| Mixing tank with rotating zone (MRF) | [Mixing](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Mixing) |
 
 ## 1. Oil bubble on a bluff body
 - **Problem:** how an oil bubble deforms and behaves when it hits a trapezoidal bluff body.
