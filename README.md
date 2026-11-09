@@ -9,21 +9,25 @@ By **Augustine Bobi**, Chemical Engineering, NITC.
 |---|---|
 | Oil bubble hitting a trapezoidal bluff body | [Oil-Bubble](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Emulsion-of-Oil) |
 | Mixing tank with rotating zone (MRF) | [Mixing](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Mixing) |
+|Lid Cavity |[Lid-Cavity](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Lid-Cavity) |
+|Plane Poisuelle Flow |[Plane-Poisuelle_Flow](https://github.com/Augubobi70/OpenFOAM-Projects/tree/Plane-Poisuelle-Flow) |
 
 ## 1. Oil bubble on a bluff body
 - **Problem:** how an oil bubble deforms and behaves when it hits a trapezoidal bluff body.
 - **Method:** interFoam, non-dimensionalised setup, mesh quality checked with `checkMesh`.
 - **Outputs:** area-versus-time chart and animation of the bubble.
-- **Key finding:** [one sentence with a number, e.g. what changed with Reynolds number]
 
 ## 2. Mixing tank (MRF)
 - **Problem:** mixing of water and oil using a rotating zone placed between the two fluids, rotating about the y-axis.
 - **Method:** Multiple Reference Frame (MRF) with interFoam, run at 62.8 rpm.
 - **Outputs:** animation and CSV data.
-- **Key finding:** [one sentence comparing the two rpm cases]
 
+## 3. Lid Cavity
+- **Problem:** Flow of Newtonian fluid when lid(top) part moves 
+- **Method:** IcoFoam is used here. 
+- **Outputs:** validation data with ghia dataset
 ## Tools
-OpenFOAM v2506 · interFoam · MRF · checkMesh · Python (post-processing and plots)
+OpenFOAM v2506 · IcoFoam  · checkMesh · Python (post-processing and ghia benchmark dataset)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/augustine-bobi-83927a35a
